@@ -28,8 +28,6 @@ This project simulates a basic online shopping experience where users can browse
 
 ![front 2](https://github.com/user-attachments/assets/d77c976d-769c-4094-b38e-8a2b06c02a41)
 
-![register](https://github.com/user-attachments/assets/b02344b0-1f9a-46f5-9224-849a4f487b38)
-
 ![login](https://github.com/user-attachments/assets/9f797c1f-7861-40b4-8488-2fc773fea141)
 
 ![cart](https://github.com/user-attachments/assets/655f3450-521a-40fa-8c98-488f32b4b5bb)
