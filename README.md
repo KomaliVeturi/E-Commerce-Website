@@ -1,3 +1,6 @@
+![register](https://github.com/user-attachments/assets/b02344b0-1f9a-46f5-9224-849a4f487b38)
+![front 2](https://github.com/user-attachments/assets/d77c976d-769c-4094-b38e-8a2b06c02a41)
+![front page](https://github.com/user-attachments/assets/a7f39242-44a3-429c-9623-673db521e746)
 E-Commerce Website Project
 ==========================
 
